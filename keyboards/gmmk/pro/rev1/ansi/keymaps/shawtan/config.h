@@ -31,3 +31,4 @@
 #define VIAL_UNLOCK_COMBO_COLS { 3, 4 }
 
 // Mine
+#define TAPPING_TOGGLE 2
